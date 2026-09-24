@@ -27,10 +27,10 @@ The dashboard describes patterns in the dataset. Differences in departure counts
 ![Overview RH](overview.png)
 
 ### Attrition Drivers
-![Attrition Drivers](Attrition Drivers.png)
+![Attrition Drivers](attrition-drivers.png)
 
 ### Compensation & Seniority
-![Compensation & Seniority](Compensation & Seniority.png)
+![Compensation & Seniority](compensation-seniority.png)
 
 ### Employee Profile
 ![Employee Profile](employee-profile.png)
