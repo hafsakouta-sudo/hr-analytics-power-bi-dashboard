@@ -21,3 +21,16 @@ Download `HR_Analytics_Dashboard.pbix` from this repository and open it in Power
 ## Interpretation
 
 The dashboard describes patterns in the dataset. Differences in departure counts should not be treated as differences in attrition rates, and associations do not establish causes.
+## Dashboard preview
+
+### Overview RH
+![Overview RH](overview.png)
+
+### Attrition Drivers
+![Attrition Drivers](Attrition Drivers.png)
+
+### Compensation & Seniority
+![Compensation & Seniority](Compensation & Seniority.png)
+
+### Employee Profile
+![Employee Profile](employee-profile.png)
